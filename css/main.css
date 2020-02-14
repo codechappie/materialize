@@ -16,4 +16,13 @@
     color: #fff;
     padding: 10px;
 }
+.card-image img{
+    width: 300px;
+    height: 320px;
+}
 
+/*CSS FRAME*/
+
+.mt-20{
+    margin-top: 5vh;
+}

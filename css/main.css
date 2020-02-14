@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: none;
+    user-select: none;
+}
+.social-networking-sites{
+    background-color: #48367E;
+    height: 40px;
+}
+.social-networking-sites ul li{
+    list-style: none;
+    display: inline-block;
+}
+.social-networking-sites li a{
+    color: #fff;
+    padding: 10px;
+}
+

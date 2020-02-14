@@ -1,5 +1,5 @@
 .input-field .prefix.active {
-  color: #8300c0;
+  color: #bdbdbd;
 }
 
 input:not([type]):focus:not([readonly]) + label,
@@ -17,7 +17,7 @@ input[type="number"]:not(.browser-default):focus:not([readonly]) + label,
 input[type="search"]:not(.browser-default):focus:not([readonly]) + label,
 input.valid[type="password"]:not(.browser-default),
 textarea.materialize-textarea:focus:not([readonly]) + label {
-  color: #8300c0;
+  color: #bdbdbd;
 }
 
 input:not([type]):focus:not([readonly]),
@@ -33,9 +33,9 @@ input[type="tel"]:not(.browser-default):focus:not([readonly]),
 input[type="number"]:not(.browser-default):focus:not([readonly]),
 input[type="search"]:not(.browser-default):focus:not([readonly]),
 textarea.materialize-textarea:focus:not([readonly]) {
-  border-bottom: 1px solid #8300c0;
-  -webkit-box-shadow: 0 1px 0 0 #8300c0;
-  box-shadow: 0 1px 0 0 #8300c0;
+  border-bottom: 1px solid #bdbdbd;
+  -webkit-box-shadow: 0 1px 0 0 #bdbdbd;
+  box-shadow: 0 1px 0 0 #bdbdbd;
 }
 input.valid:not([type]),
 input.valid:not([type]):focus,
@@ -64,7 +64,7 @@ input.valid[type="search"]:not(.browser-default):focus,
 textarea.materialize-textarea.valid,
 textarea.materialize-textarea.valid:focus,
 .select-wrapper.valid > input.select-dropdown {
-    border-bottom: 1px solid #8300c0;
-    -webkit-box-shadow: 0 1px 0 0 #8300c0;
-    box-shadow: 0 1px 0 0 #8300c0;
+    border-bottom: 1px solid #bdbdbd;
+    -webkit-box-shadow: 0 1px 0 0 #bdbdbd;
+    box-shadow: 0 1px 0 0 #bdbdbd;
 }
